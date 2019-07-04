@@ -1,0 +1,11 @@
+#firtPage {
+    display: block;
+}
+
+#secondPage {
+    display: none;
+}
+
+.menu--item {
+    cursor: pointer;
+}
