@@ -1,2 +1,2 @@
 #   SINGLE PAGE APPLICATION
-This application is wriiten soly using html, css and javascript
+This application is written soley using html, css and javascript

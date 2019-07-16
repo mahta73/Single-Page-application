@@ -1,11 +1,14 @@
-#firtPage {
+.page {
+    display: none;
+    width: 100%;
+    min-height: 100%;
+    padding: 1rem 2rem;
+}
+
+.active {
     display: block;
 }
 
-#secondPage {
-    display: none;
-}
-
-.menu--item {
+.menu__item {
     cursor: pointer;
 }
